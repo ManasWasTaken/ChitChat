@@ -1,6 +1,6 @@
 # Getting Started with ChitChat
 
-ChitChat is a real-time chat application that enables users to connect and communicate instantly. Built with the MERN stack, it offers a seamless messaging experience with features like real-time messaging, user authentication, and group chat functionality. Whether you're looking to chat one-on-one or in groups, ChitChat provides a intuitive platform for all your communication needs.
+ChitChat is a modern real-time chat application that enables users to connect and communicate instantly. Built with the MERN stack, it offers a seamless messaging experience with features like real-time messaging, user authentication, and group chat functionality. Whether you're looking to chat one-on-one or in groups, ChitChat provides a secure and intuitive platform for all your communication needs.
 
 ## Features
 
